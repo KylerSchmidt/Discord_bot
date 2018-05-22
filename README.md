@@ -14,3 +14,7 @@ Supported commands as of first build:
 
 !bulkdelete <number> - deletes chat messages by certain amount
   
+!urban <input> - proceeds with a search on urbandictionary
+
+!urbanbasic <input> - proceeds with a search on urbandictionary without embeded discord.
+  
