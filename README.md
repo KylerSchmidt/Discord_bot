@@ -1,3 +1,5 @@
+### Discontinued dated build. Look at new version in repository
+
 Discord bot early version
 
 Requires Node.js to run. can be run either with command line or run the 1 of the two scripts. 
